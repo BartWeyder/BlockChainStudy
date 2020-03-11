@@ -21,9 +21,15 @@
     <ClCompile Include="SchoolboyCipher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BitcoinAddress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SchoolboyCipher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitcoinAddress.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
